@@ -18,7 +18,7 @@ function Hero() {
             <div className="flex justify-center items-center">
                 <div className="absolute flex flex-col space-y-3 top-1/4 w-full justify-center items-center max-w-screen-sm mx-auti p-8 -mt-16">
                     <Image src="/Aryans-Logo.png" width="600" height="200" objectFit="contain" alt="logo" />
-                    <button className="bg-blue-600 text-white uppercase text-xl tracking-wide font-extrabold py-4 px-6 w-full rounded hover:bg-[#0485ee]">
+                    <button className="text-white uppercase text-xl tracking-wide font-extrabold py-4 px-6 w-full rounded hover:bg-[#0485ee]">
                         Website is Under Construction
                     </button>
 
